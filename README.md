@@ -1,1 +1,5 @@
 # Login_Cookies_Sessions
+0) Khởi tạo database ở file server/createDatabaseTable , thay tên đăng nhập và mk vào $username và $password
+1)Tất cả các file đều là .php. Nhưng những file ở phần client đều chỉ có javascript và html, hoàn toàn không có php
+2)Em có nhầm giữa sessions và seasons, lúc đầu em tưởng nó là 1 nên đặt tên trong bảng sai
+3) Em không chắc lắm việc đặt và xoá $_COOKIE và $_SESSION đều nằm ở server là đúng hay sai, tại vì đây là chạy trên máy nên có thể nó vẫn đúng nhưng nếu khi tách thành server là client riêng thì có thể không chạy nữa. Em đoán nếu thế thì phải gửi dữ liệu về client về giá trị COOKIE và SESSION về cho client rồi lưu ntn nó. Khi check sẽ đọc lại và kiểm tra. Nhưng đại khái khi nghĩ ra vấn đề này thì em lười quá nên hiện cứ thế đã. Bản chất nó cũng không sai khác lắm.
