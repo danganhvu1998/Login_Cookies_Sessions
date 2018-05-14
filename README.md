@@ -1,7 +1,7 @@
 # Login_Cookies_Sessions
 Khởi tạo database ở file server/createDatabaseTable , thay tên đăng nhập và mk vào $username và $password
 
-Tất cả các file đều là .php. Nhưng những file ở phần client đều chỉ có javascript và html, hoàn toàn không có php
+Tất cả các file đều là .php. Nhưng những file ở phần client đều chỉ có javascript và html, hoàn toàn không có php. Trừ cái testing.php, em muốn kiểm tra chút về COOKIE và SESSION. Dù sao thì nó cũng chẳng có tác dụng gì cả
 
 Em có nhầm giữa sessions và seasons, lúc đầu em tưởng nó là 1 nên đặt tên trong bảng sai
 
