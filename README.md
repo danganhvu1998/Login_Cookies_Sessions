@@ -9,4 +9,4 @@ Hình như có phải là những status server trả về có định dạng ki
 
 Em không chắc lắm việc đặt và xoá $_COOKIE và $_SESSION đều nằm ở server là đúng hay sai, tại vì đây là chạy trên máy nên có thể nó vẫn đúng nhưng nếu khi tách thành server là client riêng thì có thể không chạy nữa. Em đoán nếu thế thì phải gửi dữ liệu về client về giá trị COOKIE và SESSION về cho client rồi lưu ntn nó. Khi check sẽ đọc lại và kiểm tra. Nhưng đại khái khi nghĩ ra vấn đề này thì em lười quá nên hiện cứ thế đã. Bản chất nó cũng không sai khác lắm.
 
-Anh thông cảm, em sắp kiểm tra N môn, có philo
+Sau cái này, em sẽ làm nốt cái dùng famework nhưng chắc lâu lâu đấy, em sắp kiểm tra vài môn
